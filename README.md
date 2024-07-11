@@ -29,7 +29,7 @@ Basically this is an automation tool that sends messages to Telegram support (ht
 			python3 main.py .
 
 🍁Step 8 : 	Now Enter username or link of account, group or channel.
-
+![ice_video_20240711-172140](https://github.com/BitFreo/Telegram-Report-Script/assets/173906707/c29fddea-32d6-4e1b-a243-48bbcaea61d5)
 ![339687311-08cc0bee-15f6-499e-819e-b11ceab7d410](https://github.com/BitFreo/Telegram-Report-Script/assets/173906707/4019d531-f2d0-44fc-95b9-4275af8b6828)
 ![341003652-f43a0f56-5f16-48e1-889a-739267d51d0a](https://github.com/BitFreo/Telegram-Report-Script/assets/173906707/a7fae63d-b7b0-459a-9cda-5c271eeddbf9)
 
