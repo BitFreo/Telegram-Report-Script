@@ -1,6 +1,6 @@
 # Telegram-Report-Script
 
-# Telegram-Report-Script
+# Telegram-Report-Tool is paid for forty five bucks only.
 
 💎Tool to Mass Report Telegram Channel, Group or Account without using any telegram account.❤️‍🔥
 
